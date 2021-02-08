@@ -26,3 +26,5 @@ for tr in trs:
     data_lst = [x.replace(',', '').replace('\xa0', '') for x in data_lst]
     f.write(','.join(data_lst) + '\n')
 f.close()
+
+
