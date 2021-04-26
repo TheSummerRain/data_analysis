@@ -12,3 +12,4 @@
     pandas和maiplotlib网络安装
     scipy 下载安装
     statsmodels和Gensim网络安装
+
